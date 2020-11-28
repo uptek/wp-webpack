@@ -6,33 +6,33 @@ WP WebPack is an advanced workflow built for WordPress theme and plugin developm
 
 ### Dev Environment
 
-[-] Live browser reload
-[-] Hotloading CSS with CSS injection
+- Live browser reload
+- Hotloading CSS with CSS injection
 
 ### JavaScript
 
-[-] Bundling
-[-] Source Maps
-[-] Minification
-[-] Uglification
-[-] Code Splitting
-[-] Seperate Vendor Folders
-[-] Modules (As opposed to file concatenation)
+- Bundling
+- Source Maps
+- Minification
+- Uglification
+- Code Splitting
+- Seperate Vendor Folders
+- Modules (As opposed to file concatenation)
 
 ### Styles
 
-[-] SASS Support
-[-] Minification
-[-] Source Maps
-[-] Auto-prefix
+- SASS Support
+- Minification
+- Source Maps
+- Auto-prefix
 
 ### Images
 
-[-] Image Lazy Loading
-[-] Minification and Optimization
-[-] File Types: svg, gif, jpg, jpeg, png
+- Image Lazy Loading
+- Minification and Optimization
+- File Types: svg, gif, jpg, jpeg, png
 
 ### Live Reload
 
-[-] Watches file changes and reloads the browser
-[-] File types: php, js, css
+- Watches file changes and reloads the browser
+- File types: php, js, css
